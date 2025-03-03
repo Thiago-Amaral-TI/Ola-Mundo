@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositório do curso git e github
+# Olá,Mundo!
+ Primeiro repositório do curso Git e Github do Gustavo Guanabara
+
+ Repositório criado durante uma aula ao vivaça!
